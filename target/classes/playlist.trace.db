@@ -1,0 +1,9 @@
+2023-07-28 06:36:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYIST" not found; SQL statement:
+select song0_.songid as songid1_0_, song0_.lyricist as lyricist2_0_, song0_.musicdirector as musicdir3_0_, song0_.singer as singer4_0_, song0_.songname as songname5_0_ from playist song0_ [42102-214]
+2023-07-28 06:50:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYIST" not found; SQL statement:
+select song0_.songid as songid1_0_, song0_.lyricist as lyricist2_0_, song0_.musicdirector as musicdir3_0_, song0_.singer as singer4_0_, song0_.songname as songname5_0_ from playist song0_ [42102-214]
+2023-07-28 13:15:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PLAYIST" not found; SQL statement:
+select song0_.songid as songid1_0_, song0_.lyricist as lyricist2_0_, song0_.musicdirector as musicdir3_0_, song0_.singer as singer4_0_, song0_.songname as songname5_0_ from playist song0_ [42102-214]
